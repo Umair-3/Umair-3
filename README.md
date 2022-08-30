@@ -3,15 +3,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=umair-3&label=Profile%20views&color=0e75b6&style=flat" alt="umair-3" /> </p>
 
-- 🔭 I’m currently working on my client project [Textile Channel](https://www.textilechannel.com/)
+- 🔭 I’m currently working on my client project [Aewsome App](https://hibuddy.netlify.app/)
 
 - 👨‍💻 All of my projects are available at [https://portfolio-867.netlify.app/](https://portfolio-867.netlify.app/)
 
-- 💬 Ask me about **React JS, JavaScript, HTML/CSS, MUI, API's**
+- 💬 Ask me about **Front End**
 
 - 📫 How to reach me **umairtextile3@gmail.com**
 
-- 📄 Know about my experiences [https://pdfhost.io/v/77s62KGnN_Umair_Amir_Front_End_Developer_React_JS_Developer](https://pdfhost.io/v/77s62KGnN_Umair_Amir_Front_End_Developer_React_JS_Developer)
 
 - ⚡ Fun fact **I played games.**
 
